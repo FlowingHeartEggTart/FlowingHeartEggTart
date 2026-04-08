@@ -15,3 +15,8 @@ I’m on a journey through AI, exploring hidden connections and learning how alg
 If you’re a fellow AI enthusiast, dessert lover, or just someone who enjoys a cozy chat about coding, feel free to reach out! 📬 2260568265@qq.com
 
 Thanks for visiting my little code corner. Here, creativity and technology come together — and the adventure’s only just begun! 🌌🍥🌈
+<!-- 可以添加的小彩蛋：GitHub 统计卡片 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FlowingHeartEggTart&show_icons=true&theme=pastel&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlowingHeartEggTart&theme=pastel&hide_border=true" />
+</p>
