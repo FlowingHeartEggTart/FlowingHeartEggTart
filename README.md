@@ -22,6 +22,6 @@ Thanks for visiting my little corner.
 Here, creativity and technology meet — and my journey is just getting started! 🌌🍥🌈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlowingHeartEggTart&show_icons=true&theme=pastel&hide_border=true" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlowingHeartEggTart&theme=pastel&hide_border=true" />
 </p>
