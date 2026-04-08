@@ -1,21 +1,26 @@
 # 🌸 Welcome to FlowingHeartEggTart’s Cozy Code Corner! 🌸
 
-Hello, wanderer! You’ve stumbled upon the digital realm of **FlowingHeartEggTart** — a third-year student with big dreams in **Artificial Intelligence** and a love for all things cute (especially egg tarts 🥧✨).
+Hello, wanderer! You’ve stumbled upon the digital realm of **FlowingHeartEggTart** — a senior student passionate about **AI & large model applications**, and a lifelong lover of all things cute (especially egg tarts 🥧✨).
 
-## 🐱‍💻 System Specs:
-- **Status**: Full-time AI Adventurer & Code Dreamer
-- **Skills**: Seeking patterns, training models, and (sometimes) taming error messages 💻🐾
+## 🐱‍💻 About Me:
+- **Status**: Final-year student & aspiring AI application developer
+- **Focus**: LLM application development, AI agents, front-end & small program development
+- **Skills**: Taming models, debugging code, and turning ideas into usable projects 💻🐾
 - **Primary Fuel**: Egg Tarts 🍮 + Curiosity 💡
-- **Core Mission**: Turning data into delightful discoveries!
+- **Goal**: Become an engineer who builds warm, useful AI products
 
-## 🌟 Current Quest:
-I’m on a journey through AI, exploring hidden connections and learning how algorithms shape our world. Each repo is like a little chapter in my story, full of ideas and experiments I’m excited to share.
+## 🌟 Current Work:
+I’m building projects around **AI agents, large model applications, and front-end development**,
+recording every step of my learning and growth.
+Each repo is a small step toward becoming a better developer.
 
 ## 💌 Let's Connect!
-If you’re a fellow AI enthusiast, dessert lover, or just someone who enjoys a cozy chat about coding, feel free to reach out! 📬 2260568265@qq.com
+If you’re into AI development, interesting projects, or just want to say hi, feel free to reach out!
+📬 2260568265@qq.com
 
-Thanks for visiting my little code corner. Here, creativity and technology come together — and the adventure’s only just begun! 🌌🍥🌈
-<!-- 可以添加的小彩蛋：GitHub 统计卡片 -->
+Thanks for visiting my little corner.
+Here, creativity and technology meet — and my journey is just getting started! 🌌🍥🌈
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FlowingHeartEggTart&show_icons=true&theme=pastel&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlowingHeartEggTart&theme=pastel&hide_border=true" />
